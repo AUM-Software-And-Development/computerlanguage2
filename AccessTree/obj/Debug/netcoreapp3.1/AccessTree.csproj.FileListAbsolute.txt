@@ -1,0 +1,36 @@
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.deps.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AccessTree.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AccessTree.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AccessTree.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.deps.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.deps.json
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.csprojAssemblyReference.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfoInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfo.cs
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.csproj.CoreCompileInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.deps.json
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\bin\Debug\netcoreapp3.1\AccessTree.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.csprojAssemblyReference.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfoInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.AssemblyInfo.cs
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.csproj.CoreCompileInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\AccessTree\obj\Debug\netcoreapp3.1\AccessTree.pdb

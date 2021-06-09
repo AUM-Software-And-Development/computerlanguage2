@@ -1,0 +1,9 @@
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\bin\Release\netcoreapp3.1\AccessTree.deps.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\bin\Release\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\bin\Release\netcoreapp3.1\AccessTree.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Release\netcoreapp3.1\AccessTree.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Release\netcoreapp3.1\AccessTree.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Release\netcoreapp3.1\AccessTree.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Release\netcoreapp3.1\AccessTree.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Release\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AccessTree\obj\Release\netcoreapp3.1\AccessTree.pdb

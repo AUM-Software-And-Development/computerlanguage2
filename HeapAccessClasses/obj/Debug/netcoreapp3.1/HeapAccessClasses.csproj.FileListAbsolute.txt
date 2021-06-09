@@ -1,0 +1,36 @@
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.deps.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csproj.CopyComplete
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.deps.json
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csprojAssemblyReference.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.AssemblyInfoInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.AssemblyInfo.cs
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csproj.CoreCompileInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csproj.CopyComplete
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.deps.json
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csprojAssemblyReference.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.AssemblyInfoInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.AssemblyInfo.cs
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csproj.CoreCompileInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.csproj.CopyComplete
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\HeapAccessClasses\obj\Debug\netcoreapp3.1\HeapAccessClasses.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zp0ErCUmrrrbhJTfDLxRFF97CdYjmN4emnfYF22lMOjl6wHS/TdPvUgdjRSFOZPj70qk/8KUX5wkBPbsMdpRSA==",
+  "success": true,
+  "projectFilePath": "G:\\Computer Reset\\Files\\Object Oriented Code\\TTSTS\\C#\\TTSTS Language\\TTSTS\\StackAccessClasses\\StackAccessClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EricD\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,78 @@
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS_MarkupCompile.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS_MarkupCompile.lref
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.exe
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.deps.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.dev.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.g.resources
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.genruntimeconfig.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\HeapAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\StackAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\AccessTree.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\StackAccessClasses.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CopyComplete
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.exe
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.deps.json
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.json
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.dev.json
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\AccessTree.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\HeapAccessClasses.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\StackAccessClasses.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\AccessTree.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\StackAccessClasses.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csprojAssemblyReference.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS_MarkupCompile.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS_MarkupCompile.lref
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.g.resources
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfoInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfo.cs
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CoreCompileInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CopyComplete
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.genruntimeconfig.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.exe
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.deps.json
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.json
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.dev.json
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\AccessTree.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\HeapAccessClasses.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\StackAccessClasses.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\AccessTree.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\HeapAccessClasses.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\StackAccessClasses.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csprojAssemblyReference.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS_MarkupCompile.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS_MarkupCompile.lref
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.g.resources
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfoInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfo.cs
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CoreCompileInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CopyComplete
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.genruntimeconfig.cache

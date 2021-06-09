@@ -1,0 +1,36 @@
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.deps.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csproj.CopyComplete
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.deps.json
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.pdb
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csprojAssemblyReference.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.AssemblyInfoInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.AssemblyInfo.cs
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csproj.CoreCompileInputs.cache
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csproj.CopyComplete
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.dll
+E:\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.deps.json
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\StackAccessClasses.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\bin\Debug\netcoreapp3.1\AccessTree.pdb
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csprojAssemblyReference.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.AssemblyInfoInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.AssemblyInfo.cs
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csproj.CoreCompileInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.csproj.CopyComplete
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.dll
+G:\Computer Reset\Files\Object Oriented Code\TTSTS\C#\TTSTS Language\TTSTS\StackAccessClasses\obj\Debug\netcoreapp3.1\StackAccessClasses.pdb

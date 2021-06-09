@@ -1,0 +1,9 @@
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\bin\Debug\netcoreapp3.1\AllAccessClasses.deps.json
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\bin\Debug\netcoreapp3.1\AllAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\bin\Debug\netcoreapp3.1\AllAccessClasses.pdb
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AllAccessClasses.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AllAccessClasses.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AllAccessClasses.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AllAccessClasses.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AllAccessClasses.dll
+C:\Files\TTSTS\TTSTS V2\TTSTS\AllAccessClasses\obj\Debug\netcoreapp3.1\AllAccessClasses.pdb
